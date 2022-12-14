@@ -7,7 +7,7 @@ I am building the the FYSETC kit with Bluerolls metal kit recommended by Ben Lev
 
 This guide combines the build guides from Ben Levi, FYSETC, and David Husolo's guide on [ifixit](https://www.ifixit.com/Device/BLV_MGN_Cube) to provide a build flow that I followed to assemble my BLV printer. It's not the ONLY way to accomplish the build, it's simply a log of how I worked my way thru the build. 
 
-![This is an image](/assets/images/blv2.jpg)
+![This is an image](blv2.jpg)
 
 ## My build includes the following mods:
 
