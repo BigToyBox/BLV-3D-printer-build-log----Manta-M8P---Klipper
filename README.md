@@ -15,8 +15,8 @@ This guide combines the build guides from Ben Levi, FYSETC, and David Husolo's g
 2. Neopixels controlled by the Manta board
 
 ## STL files
-1. Adapter mount plate from the Duet mounting holes to the Manta M8P board
-2. TPU mounting feet
-3. Redesigned LED light strip diffusers
-4. Redesigned LED neopixel diffusers
-5. Wire loom guides for 2020 rail
+1. Bigtreetech H2 extruder/hermit crab mount adapted to the metal kit 
+2. Adapter mount plate from the Duet mounting holes to the Manta M8P board
+3. TPU mounting feet
+4. Redesigned LED light strip diffusers
+5. Redesigned LED neopixel diffusers
