@@ -20,3 +20,6 @@ This guide combines the build guides from Ben Levi, FYSETC, and David Husolo's g
 3. TPU mounting feet
 4. Redesigned LED light strip diffusers
 5. Redesigned LED neopixel diffusers
+
+## Manta M8P-CB1 firmware
+** Firmware
