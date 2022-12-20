@@ -1,4 +1,4 @@
-# The WASP - a BLV COreXY printer build with MantaM8P and Klipper
+# The WASP - a BLV CoreXY printer build with MantaM8P and Klipper
 
 This is a log of my BLV mgn cube 3d Printer.
 
