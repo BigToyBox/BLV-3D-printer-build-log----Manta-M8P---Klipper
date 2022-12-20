@@ -1,4 +1,4 @@
-# BLV build - Manta-M8P - Klipper
+# The WASP a BLV COreXY printer build - Manta-M8P - Klipper
 
 This is a log of my BLV mgn cube 3d Printer.
 
