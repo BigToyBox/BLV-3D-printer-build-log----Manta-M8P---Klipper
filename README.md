@@ -28,5 +28,13 @@ This guide combines the build guides from Ben Levi, FYSETC, and David Husolo's g
 
 ## Configuration Checks
 
+From the Voron website:
 ![Stepper motor direction setup (voron site)](https://user-images.githubusercontent.com/120577343/209176872-27d13291-3cc7-49af-ba4d-3588370ecf00.png)
 
+## Step 1 - Endstop tests
+* Test each endstop by using the "Endstop" tab within the "Machine" page
+* Adjust logic as needed by doing research online and/or with your board
+    For the Manta M8P ..............TBD
+
+## Step 2 - Motor tests
+* Be sure to be ready to manually trip the endstop(s) with your finger if the motor(s) are moving in the wrong direction
