@@ -28,4 +28,5 @@ This guide combines the build guides from Ben Levi, FYSETC, and David Husolo's g
 
 ## Configuration Checks
 
-[belt routing.pdf](https://github.com/BigToyBox/BLV-build---Manta-M8P---Klipper/files/10288426/belt.routing.pdf)[This is an image](Stepper motor direction setup (voron site).png)
+![Stepper motor direction setup (voron site)](https://user-images.githubusercontent.com/120577343/209176872-27d13291-3cc7-49af-ba4d-3588370ecf00.png)
+
