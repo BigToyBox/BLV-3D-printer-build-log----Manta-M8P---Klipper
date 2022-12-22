@@ -12,7 +12,8 @@ This guide combines the build guides from Ben Levi, FYSETC, and David Husolo's g
 ## My build includes the following mods:
 
 1. Klipper firmware running on a BTT Manta M8P with a CB1 raspberry pi clone
-2. Neopixels controlled by the Manta board
+2. Induction probe using the probe port available on the Manta board
+3. Neopixels controlled by the Manta board
 
 ## STL files
 1. Bigtreetech H2 extruder/hermit crab mount adapted to the metal kit 
