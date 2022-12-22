@@ -24,3 +24,7 @@ This guide combines the build guides from Ben Levi, FYSETC, and David Husolo's g
 
 ## Manta M8P-CB1 firmware
 ** Firmware
+
+
+## Configuration Checks
+
