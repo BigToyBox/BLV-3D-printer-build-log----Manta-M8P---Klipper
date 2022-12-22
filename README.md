@@ -27,4 +27,4 @@ This guide combines the build guides from Ben Levi, FYSETC, and David Husolo's g
 
 
 ## Configuration Checks
-/main/Stepper_motor_direction_setup_(voron%20site).png
+Stepper motor direction setup (voron site).png
