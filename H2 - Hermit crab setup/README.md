@@ -22,7 +22,19 @@ Print the parts in PETG
 <img src="https://user-images.githubusercontent.com/120577343/209439145-c93f1568-7be5-45cf-9d33-3774752f45f5.JPG" width="300"> <img src="https://user-images.githubusercontent.com/120577343/209439813-670cfae5-a4fc-437b-a4d1-768f68eb3a87.JPG" width="300">
 
 
-### Step 3:
-<img src="
-" width="300">
+### Step 3 - H2 extruder assembly:
+1. Remove the wiring plate from the hermit crab plate. Install the H2 with one bolt in the lower left of the plate to the lower left hole in the back of the H2 extruder. Leave it snug to allow for alignment later. 
+2. Install the printed top mount using two bolts and nuts to attach it to the plate and two more bolts to attach it to the H2 extruder. Tighten the printed mount to the top of the H2 extruder first, then snug up the bolts to the plate. The printed mount si designed to provide a top "fence" for the H2 to rest against so align the H2, the printed upper mount, and the hermit crab plate so the H2 sits flush against the mount and everything is square to teh back plate. Tighten all 5 bolts. 
+3. Attach the fan to the side of the mount
+4. Attach the fan duct to the bottom of the H2 extruder
+5. Attach the probe mount to the front of the extruder (substitute a BL touch mount if that is your preference)
+6. Route all wires
 
+## Enjoy the ease of having swappable extruders!
+#### In my workflow, I have three of these assemblies, one for each printer and a fourth spare H2 assembly ready to go should one of my other H2's fail. 
+
+#### * Note: It is impossible to have every probe set exactly the same distance from teh nozzle tip. When you swap extruders, you have to do a quick z offest "tune" using the piece of paper method. However, due to the precise design of the hermit crab system, you do NOT have to recalibrate the z offset id you remove the extruder and pop it back on the same printer. I have done it dozens of times. 
+
+
+<img src="https://user-images.githubusercontent.com/120577343/209440755-f59d4edb-c0e2-4ffc-bdab-531a6477c35f.jpg" width="300"> <img src="https://user-images.githubusercontent.com/120577343/209440757-146d95c2-772c-4802-a8f9-943dc54414be.jpg" width="300"> <img src="https://user-images.githubusercontent.com/120577343/209440753-89cec29a-1019-4e0a-a169-ca4b6b7ef391.jpg" width="300">
+<img src="https://user-images.githubusercontent.com/120577343/209440754-aaa1cf10-3b13-4a62-a2cc-373de3fafa2b.jpg" width="300"> <img src="https://user-images.githubusercontent.com/120577343/209440758-8604f5c2-50ae-46a9-9dbc-b70ab08b9c7b.jpg" width="300">
