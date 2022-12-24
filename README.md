@@ -1,13 +1,15 @@
 # "The WASP" - a BLV CoreXY printer build with MantaM8P and Klipper
 
-This is a log of my BLV mgn cube 3d Printer.
-
-I am building the the FYSETC kit with Bluerolls metal kit recommended by Ben Levi. 
+#### This is a log of my BLV mgn cube 3d Printer. I built the the FYSETC kit with Bluerolls metal kit recommended by Ben Levi. 
 
 
-This guide combines the build guides from Ben Levi, FYSETC, and David Husolo's guide on [ifixit](https://www.ifixit.com/Device/BLV_MGN_Cube) to provide a build flow that I followed to assemble my BLV printer. It's not the ONLY way to accomplish the build, it's simply a log of how I worked my way thru the build. 
+This guide combines the build guides and metal kit animations from Ben Levi, FYSETC factory videos, and David Husolo's guide on [ifixit](https://www.ifixit.com/Device/BLV_MGN_Cube) to provide a build flow that I followed to assemble my BLV printer. It's not the ONLY way to accomplish the build, it's simply a log of how I worked my way thru the build. 
 
-![This is an image](blv2.jpg)
+![IMG-6899](https://user-images.githubusercontent.com/120577343/209441926-59236815-ea76-452b-a6a8-aa57b83c054e.JPG)
+![IMG-6901](https://user-images.githubusercontent.com/120577343/209441932-90802643-60bf-41d2-a4df-9d9dc0c372d4.JPG)
+![IMG-6900](https://user-images.githubusercontent.com/120577343/209441933-1b79081c-f190-4107-896e-d7802f7bdb4f.JPG)
+<img scr:"https://user-images.githubusercontent.com/120577343/209441936-9d2571a3-a9d0-4283-993a-68af19670be5.JPG"
+
 
 ## My build includes the following mods:
 
