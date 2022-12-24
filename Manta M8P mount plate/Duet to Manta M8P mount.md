@@ -1,4 +1,4 @@
-## Manta M8P Mount PLate
+## Manta M8P Mount Plate
 I created a mounting plate to mount my Manta M8P in the existing Duet mounting holes. I used the three extra fans that came with the Fysetc kit and put them to good use cooling the stepper drivers.
 
 1. Print in PLA or PETG
