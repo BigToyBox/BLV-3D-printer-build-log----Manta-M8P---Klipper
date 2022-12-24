@@ -30,11 +30,11 @@ Print the parts in PETG
 5. Attach the probe mount to the front of the extruder (substitute a BL touch mount if that is your preference)
 6. Route all wires
 
+<img src="https://user-images.githubusercontent.com/120577343/209440755-f59d4edb-c0e2-4ffc-bdab-531a6477c35f.jpg" width="300"> <img src="https://user-images.githubusercontent.com/120577343/209440757-146d95c2-772c-4802-a8f9-943dc54414be.jpg" width="300"> <img src="https://user-images.githubusercontent.com/120577343/209440753-89cec29a-1019-4e0a-a169-ca4b6b7ef391.jpg" width="300">
+<img src="https://user-images.githubusercontent.com/120577343/209440754-aaa1cf10-3b13-4a62-a2cc-373de3fafa2b.jpg" width="300"> <img src="https://user-images.githubusercontent.com/120577343/209440758-8604f5c2-50ae-46a9-9dbc-b70ab08b9c7b.jpg" width="300">
+
 ## Enjoy the ease of having swappable extruders!
 #### In my workflow, I have three of these assemblies, one for each printer and a fourth spare H2 assembly ready to go should one of my other H2's fail. 
 
 #### * Note: It is impossible to have every probe set exactly the same distance from teh nozzle tip. When you swap extruders, you have to do a quick z offest "tune" using the piece of paper method. However, due to the precise design of the hermit crab system, you do NOT have to recalibrate the z offset id you remove the extruder and pop it back on the same printer. I have done it dozens of times. 
 
-
-<img src="https://user-images.githubusercontent.com/120577343/209440755-f59d4edb-c0e2-4ffc-bdab-531a6477c35f.jpg" width="300"> <img src="https://user-images.githubusercontent.com/120577343/209440757-146d95c2-772c-4802-a8f9-943dc54414be.jpg" width="300"> <img src="https://user-images.githubusercontent.com/120577343/209440753-89cec29a-1019-4e0a-a169-ca4b6b7ef391.jpg" width="300">
-<img src="https://user-images.githubusercontent.com/120577343/209440754-aaa1cf10-3b13-4a62-a2cc-373de3fafa2b.jpg" width="300"> <img src="https://user-images.githubusercontent.com/120577343/209440758-8604f5c2-50ae-46a9-9dbc-b70ab08b9c7b.jpg" width="300">
