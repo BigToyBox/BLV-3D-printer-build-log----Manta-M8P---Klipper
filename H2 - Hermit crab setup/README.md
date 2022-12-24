@@ -2,12 +2,12 @@
 
 ![H2 Hermit Crab BLV metal kit mount](H2.jpg)
 
-## Step 1:
+## Step 1 - Print the parts:
 Print the parts in PETG
  * The upper H2 mount prints best vertical as shown with a support
  * The fan duct prints flat without supports
 
-## Step 2:
+## Step 2 - Hermit Crab back plate:
 1. Insert four M3 nuts into the nut plate spacer
 2. Assemble the front metal plate, the spacer and the metal top plate together OFF the gantry using two bolts provided with the metal kit
  #### You MUST USE the exact length of bolts for the top mount locations! A longer bolt will drive into the upper metal part and NOT tighten the hermit crab  plate down properly!
@@ -20,9 +20,12 @@ Print the parts in PETG
 ![IMG-6858](https://user-images.githubusercontent.com/120577343/209438639-11228ad5-874a-4963-8bf9-b863f7f800ae.jpg)
 
 6. Finish assembly of the gantry extruder carrier
-7. Bolt the back plate of the hermit crab to the face of the extruder mount using the bolts provided by BIQU.
+7. Bolt the back plate of the hermit crab to the face of the extruder mount using the bolts provided by BIQU
+8. Connect your wires and install the wire cap
 
 ![IMG-6896](https://user-images.githubusercontent.com/120577343/209439145-c93f1568-7be5-45cf-9d33-3774752f45f5.JPG)
+![IMG_6898](https://user-images.githubusercontent.com/120577343/209439813-670cfae5-a4fc-437b-a4d1-768f68eb3a87.JPG)
+
 
 ### Step 3:
 
