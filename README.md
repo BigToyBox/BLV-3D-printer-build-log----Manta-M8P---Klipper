@@ -8,10 +8,15 @@ This guide combines the build guides and metal kit animations from Ben Levi, FYS
 ### Modifications include:
 - BTT Manta M8P with their CB1 pi clone
 - Klipper firmware
+- BIQU H2 direct drive extruder mounted with the BIQU hermit crab back plate
 - My own neopixel code controlled directly by the MantaM8P (no daughter board required)
 - Microsoft camera 
 - Noctua quiet power supply fan per David's guide on ifixit
 - Magnetic print bed with spring steel PEI build plate
+- Left and right LED light buttons (shutting off the side oppsite the camera improves video quality 
+- Tool tray for tweazers and cutters
+- Dual filament spool holders
+
 
 <img src="https://user-images.githubusercontent.com/120577343/209441926-59236815-ea76-452b-a6a8-aa57b83c054e.JPG" width="900">
 
@@ -22,14 +27,15 @@ This guide combines the build guides and metal kit animations from Ben Levi, FYS
 3. Neopixels controlled by the Manta board
 
 ## STL files
-1. Bigtreetech H2 extruder/hermit crab mount adapted to the metal kit 
-2. Adapter mount plate from the Duet mounting holes to the Manta M8P board
+1. Bigtreetech H2 extruder/hermit crab mount adapted to the metal kit (ADXL345 mounting holes included)
+2. Adapter mount plate from the Duet mounting holes to the Manta M8P board with triple fans
 3. TPU mounting feet
 4. Redesigned LED light strip diffusers
 5. Redesigned LED neopixel diffusers
+6. 
 
 ## Manta M8P-CB1 firmware
-** Firmware
+** Firmware available on request
 
 
 ## Configuration Checks
