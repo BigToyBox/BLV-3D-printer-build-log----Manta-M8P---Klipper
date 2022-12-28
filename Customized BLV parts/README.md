@@ -1,6 +1,6 @@
 # Customized BLV parts
 
-To better segment the neopixel light rings, I modifoed the lenses and backplates. Choose an insert, drop in the neopixel ring and attcha the back plate to sandwich it all together. There are small alignment marks to help you line up the leds square in the lens. 
+To better segment the neopixel light rings, I modified the lenses and backplates. Choose an insert, drop in the neopixel ring and attach the back plate to sandwich it all together. There are small alignment marks to help you line up the leds square in the lens. 
 
 
 ## Custom neopixel parts and code
