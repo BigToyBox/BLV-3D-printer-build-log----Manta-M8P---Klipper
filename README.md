@@ -9,6 +9,7 @@ This guide combines the build guides and metal kit animations from Ben Levi, FYS
 - BTT Manta M8P with their CB1 pi clone
 - Klipper firmware
 - BIQU H2 direct drive extruder mounted with the BIQU hermit crab back plate
+- Induction probe for z sensing (I run the same probe on teh Manta, an Octopus and a SKR2)
 - My own neopixel code controlled directly by the MantaM8P (no daughter board required)
 - Microsoft camera 
 - Noctua quiet power supply fan per David's guide on ifixit
