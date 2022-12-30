@@ -1,4 +1,5 @@
-﻿# This file contains common pin mappings for the BIGTREETECH Manta M8P
+# USE AT YOUR OWN RISK!
+# This file contains common pin mappings for the BIGTREETECH Manta M8P
 # To use this config, the firmware should be compiled for the
 # STM32G0B1 with a "8KiB bootloader" and USB communication.
 # See docs/Config_Reference.md for a description of parameters.
